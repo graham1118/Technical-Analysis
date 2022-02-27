@@ -1,0 +1,1 @@
+backtested = {'Value': [['KTOS', 'NOVA', 'CSIQ', 'LAC', 'EVGO', 'RUN', 'RAZFF', 'HIMX', 'RRC', 'BCAUY', 'SPWR', 'BE', 'PTRA', 'CHPT', 'CRTX', 'UMC', 'MVIS', 'VCYT', 'GH', 'BGNE', 'EQT', 'APPS'], '2021-04-01', 50, 50]}
